@@ -1,7 +1,7 @@
 import telebot
 import random
 
-TOKEN = '7720116744:AAFPtlM4YsT02VAx3ALwOtkoQjfewmb_qRU'  # ← сюда вставь свой токен
+TOKEN = ''  # ← сюда вставь свой токен
 bot = telebot.TeleBot(TOKEN)
 
 # Храним данные игроков: загаданное число и оставшиеся попытки
